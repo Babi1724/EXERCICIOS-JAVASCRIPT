@@ -1,0 +1,61 @@
+Exercícios 1–10 (bem básicos)
+
+Mostre "Olá, mundo" no console
+Crie uma variável com seu nome e mostre
+Crie duas variáveis e mostre a soma
+Mostre o tipo de uma variável (typeof)
+Converta string para número (Number)
+Peça um número e mostre ele
+Mostre o dobro de um número
+Mostre o triplo de um número
+Verifique se um número é positivo
+Verifique se um número é negativo
+
+🟡 Exercícios 11–20 (if e lógica)
+Verifique se um número é par ou ímpar
+Verifique se é maior de idade
+Compare dois números (qual é maior)
+Verifique se dois números são iguais
+Mostre o maior entre 3 números
+Classifique nota (Aprovado/Reprovado)
+Verifique se um número é múltiplo de 5
+Verifique se um número está entre 10 e 20
+Verifique se um número é zero
+Faça um sistema simples de login (usuário fixo)
+
+🟠 Exercícios 21–30 (for e repetição)
+Mostre números de 1 a 10
+Mostre de 10 a 1
+Mostre apenas números pares de 1 a 20
+Mostre apenas números ímpares
+Tabuada de um número
+Soma de 1 até 10
+Multiplicação de 1 até 5
+Contar de 0 até N
+Mostrar números divisíveis por 3
+Mostrar números maiores que 10 em um array
+
+🔵 Exercícios 31–40 (arrays básicos)
+Crie um array com 5 números
+Mostre o primeiro elemento
+Mostre o último elemento
+Some todos os elementos
+Conte quantos elementos existem
+Mostre apenas números pares
+Encontre o maior número
+Encontre o menor número
+Adicione um número no array (push)
+Remova o último (pop)
+
+🟣 Exercícios 41–50 (misturando tudo)
+Verifique se uma palavra é palíndromo
+Conte quantas letras tem uma palavra
+Inverta uma string
+Conte vogais em uma palavra
+Crie uma função de soma
+Crie uma função que verifica par/ímpar
+Simule um contador com função
+Faça média de notas usando função
+Crie um mini menu com opções (if ou switch)
+>>>>>>> 84eaae07d1482f993b52e360d0e8e843f8c75d43
+Crie um programa que peça números até digitar 0
